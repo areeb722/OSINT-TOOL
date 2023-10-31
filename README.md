@@ -1,3 +1,5 @@
+EMAIL : OSINT.
+EMAIL INFORMATION GATHERING TOOL.
 # OSINT-TOOL
 OSINT Tool for emails. It helps you gather information about the target email.
 Determine the name of the person who has the email.
@@ -14,4 +16,3 @@ Scanning pastebin dumps
 Google Search
 
 
-EMAIL : OSINT
