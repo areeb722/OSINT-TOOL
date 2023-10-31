@@ -12,3 +12,6 @@ Checking data breaches and password leaks
 Finding related emails and domains
 Scanning pastebin dumps
 Google Search
+
+
+EMAIL : OSINT
