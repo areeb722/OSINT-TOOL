@@ -43,11 +43,6 @@ Osintgram offers an interactive shell to perform analysis on Instagram account o
 - wtagged         Get a list of user who tagged target
 ```
 
-You can find detailed commands usage [here](doc/COMMANDS.md).
-
-[**Latest version**](https://github.com/Datalux/Osintgram/releases/tag/1.3) |
-[Commands](doc/COMMANDS.md) |
-[CHANGELOG](doc/CHANGELOG.md)
 
 ## FAQ
 1. **Can I access the contents of a private profile?** No, you cannot get information on private profiles. You can only get information from a public profile or a profile you follow. The tools that claim to be successful are scams!
@@ -174,12 +169,4 @@ To update Osintgram with the stable release just pull the latest commit using Gi
 
 You can propose a feature request opening an issue or a pull request.
 
-Here is a list of Osintgram's contributors:
 
-<a href="https://github.com/areeb722/OSINT-TOOLgraphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Datalux/Osintgram" />
-</a>
-
-## External library 🔗
-
-[Instagram API](https://github.com/ping/instagram_private_api)
