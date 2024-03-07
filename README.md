@@ -135,7 +135,7 @@ Alternatively you may run `docker-compose` with the `Makefile`:
 
 For ease of use with Docker-compose, a `Makefile` has been provided.
 
-Here is a sample work flow to spin up a container and run `osintgram` with just two commands!
+Here is a sample work flow to spin up a container and run `OSINT-TOOL` with just two commands!
 
 1. `make setup`   - Sets up your Instagram credentials
 2. `make run`     - Builds and Runs a osintgram container and prompts for a target
